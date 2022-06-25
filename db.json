@@ -1,0 +1,12 @@
+{
+  "cars":[
+    {
+      "cname":"Mazda",
+      "model": "demio Blitz",
+      "modelYear":2015,
+      "pic":"_ (1).jpeg",
+      "price": "560,000"
+
+    }
+  ]
+}
